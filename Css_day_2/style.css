@@ -1,0 +1,39 @@
+body{
+    background-color: red;
+}
+#container{
+    margin:0px 200px;
+    background-color:#feffc6;
+    padding:30px;
+
+}
+.header{
+    background-color: #eedb8d;
+    padding:15px;
+    color:rgb(71, 226, 71);
+    margin: 10px;
+}
+.text{
+    background-color: #eedb8d;
+    float:left;
+    margin:10px;
+    padding: 10px 10px;
+
+}
+#p1{
+    width:50%;
+}
+#p2{
+    width:40%;
+}
+center{
+    text-transform: uppercase;
+}
+.foot{
+    background-color: #eedb8d;
+    padding:1px;
+    clear:both;
+    margin: 10px;
+    padding:1px 5px;
+}
+
